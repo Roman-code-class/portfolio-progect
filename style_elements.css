@@ -1,0 +1,141 @@
+a {
+    text-decoration: none;
+    color: #263344;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.to_main {
+    margin-right: auto;
+}
+
+.nav-list {
+display: flex;
+}
+
+.nav-iteme:not(:last-child) {
+margin-right: 50px;
+}
+
+.logo_hat {
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.logo_greetings {
+    background: no-repeat;
+    background-image: url("/img/blok\ logo.png");
+    background-size: 100%;
+    width: 900px;
+    height: 400px;
+    margin-top:400px;
+    margin-left: 300px;
+    }
+    
+.stella {
+    background: no-repeat;
+    background-image: url("/img/Stella.png");
+    background-size: 100%;
+    width: 450px;
+    height: 450px;
+    margin-right: 0px;
+    }
+    
+.flower {
+    background: no-repeat;
+    background-image: url("/img/flower.png");
+    background-size: 100%;
+    width: 600px;
+    height: 900px;
+    margin-left: auto
+    }
+
+.painting {
+    background: no-repeat;
+    background-image: url("/img/painting.jpg");
+    background-size: 100%;
+    width: 430px;
+    height: 600px;
+}
+
+.text-order {
+    margin-left: 100px;
+    margin-top: -30px
+}
+
+.text-order_call{
+    margin-bottom: 100px;
+}
+
+.btn-order {
+    font-size: 50px;
+    padding: 25px 200px;
+    margin-left: 50px;
+    line-height: 1;
+    color: #263344;
+    background: #b6bcc8;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.paper, .paintings, .canvas {
+    width: 280px;
+    height: 360px;
+    margin: 40px 80px;
+    box-shadow: 10px 3px 8px 0px rgba(34, 60, 80, 0.37);
+    
+}
+
+.examples:not(:last-child) {
+    margin-right: 20px;
+}
+
+.examples {
+    background-color: #dedede;
+    width: 430px;
+    height: 430px;
+}
+
+.examples-text {
+    margin-left: 90px;
+    margin-top: 15px;
+}
+
+.examples-text:not(:last-child) {
+    margin-right: 70px;
+}
+
+.paper_sizes {
+    width: 400px;
+    padding-top: 80px;
+}
+
+.reviews-logo {
+    background-image: url(/img/reviews.png);
+    background-size: 100%;
+    width: 580px;
+    height: 300px;
+    margin-right: auto;
+    margin-top: 250px;
+}
+
+.customer_feedback {
+    width: 600px;
+    height: 580px;
+    margin-left: auto;
+    margin-top: 110px;
+}
+
+.btn-footer {
+    height: 60px;
+    width: 60px;
+}
+
+.btn-end:not(:last-child) {
+    margin-right: 20px;
+}

@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: sans-serif;
+    font-family: 'VW Head', sans-serif;
+}
+
+.greetings, .order, .portfolio, .price, .reviewes, .footer {
+    padding-left: 700px;
+    padding-right: 850px;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding-left: 35px;
+    padding-right: 45px;
+    
+}
+
+.header {
+    height: 70px;
+}
+
+.greetings {
+    background-color: #b6bcc8;
+    padding: 0;
+    width: 100%;
+}
+
+.intro {
+    display: flex;
+}
+
+.order {
+    background-color: #e4e4e4;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    width: 100%;
+}
+
+.order_position {
+    display: flex;
+}
+
+.portfolio {
+    background-color: #c3c7d1;
+    padding-bottom: 100px;
+}
+
+.work-list {
+    display: flex;
+}
+
+.price {
+    background-color: #f0f0f0;
+}
+
+.flex-price {
+    display: flex;
+}
+
+.reviewes {
+    background-color: #c2c6d0;
+    padding-bottom: 80px;
+    display: flex;
+}
+
+.footer {
+    background-color: #f0f0f0;
+    padding-bottom: 80px;
+
+}
+
+.nav-end {
+    display: flex;
+    padding-left: 200px;
+    padding-right: 285px;
+    padding-top: 55px;
+}
