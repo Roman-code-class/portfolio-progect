@@ -1,0 +1,423 @@
+
+@media (max-width: 1920px) {
+    .logo_hat {
+        width: 80px;
+        height: 30px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    
+    .nav-list {
+        font-size: 10px;
+    }
+
+    .logo_greetings {
+        width: 550px;
+        height: 300px;
+        margin-top: 350px;
+        margin-left: 20px;
+        }
+        
+    .stella {
+        width: 250px;
+        height: 250px;
+        margin-right: 0px;
+        }
+        
+    .flower {
+        width: 500px;
+        height: 750px;
+        margin-left: auto
+        }
+
+    .painting {
+        width: 330px;
+        height: 500px;
+        }
+
+    .text_and_btn {
+        font-size: 15px;
+        }
+
+    .btn-order {
+        font-size: 30px;
+        padding: 20px 80px;
+        line-height: 1;
+        border-radius: 4px;
+        }
+
+    .portfolio-text {
+        font-size: 30px;
+        }
+
+    .paper, .paintings, .canvas {
+        width: 250px;
+        height: 300px;
+        }
+
+        .examples {
+            width: 350px;
+            height: 350px;
+        }
+
+        .examples-text:not(:last-child) {
+            margin-right: 150px;
+        }
+
+        .dop_price-text {
+            font-size: 15px;
+        }
+
+    .price-text {
+        font-size: 30px;
+        }
+
+    .reviews-logo {
+        width: 300px;
+        height: 153px;
+        }
+
+    .customer_feedback {
+        width: 400px;
+        height: 400px;
+        padding-bottom: 30px;
+        padding-top: 30px;
+        }
+
+    .footer {
+        padding: 0%;
+        font-size: 15px;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        }
+
+    .btn-footer {
+        height: 30px;
+        width: 30px;
+        }
+    }
+
+@media  (max-width: 1024px) {
+        .logo_hat {
+            width: 50px;
+            height: 30px;
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+        
+        .nav-list {
+            font-size: 13px;
+        }
+    
+        .logo_greetings {
+            width: 300px;
+            height: 200px;
+            margin-top: 300px;
+            margin-left: -15px;
+            }
+            
+        .stella {
+            width: 250px;
+            height: 250px;
+            margin-right: 0px;
+            }
+            
+        .flower {
+            width: 400px;
+            height: 650px;
+            margin-left: auto
+            }
+
+        .paper, .paintings, .canvas {
+            width: 180px;
+            height: 260px;
+            }
+
+        .examples {
+            width: 300px;
+            height: 300px;
+            }
+
+        .examples-text:not(:last-child) {
+            margin-right: 100px;
+        }
+
+        .paper_sizes {
+            width: 300px;
+            padding-top: 20px;
+        }
+
+        .reviews-logo {
+            width: 300px;
+            height: 160px;
+            }
+    
+        .customer_feedback {
+            width: 330px;
+            height: 330px;
+            padding-bottom: 30px;
+            padding-top: 30px;
+            }
+
+        .btn-footer {
+            height: 25px;
+            width: 25px;
+            }
+
+            .btn-end:not(:last-child) {
+                margin-right: 10px;
+            }
+
+        }
+
+@media  (max-width: 940px) {
+        .logo_hat {
+            width: 50px;
+            height: 20px;
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+        
+        .nav-list {
+            font-size: 10px;
+        }
+        
+        .logo_greetings {
+            width: 350px;
+            height: 150px;
+            margin-top: 230px;
+            margin-left: -40px;
+            }
+            
+        .stella {
+            width: 210px;
+            height: 200px;
+            margin-right: 0px;
+            }
+            
+        .flower {
+            width: 320px;
+            height: 520px;
+            margin-left: auto
+            }
+
+        .painting {
+            width: 200px;
+            height: 300px;
+        }
+
+        .text-order {
+            margin-left: 40px;
+        }
+
+        .text-order_call {
+            margin-bottom: 40px;
+        }
+
+        .text_and_btn {
+            font-size: 13px;
+        }
+
+        .btn-order {
+            font-size: 20px;
+            padding: 15px 50px;
+            margin-left: 50px;
+        }
+
+        .paper, .paintings, .canvas {
+            width: 130px;
+            height: 180px;
+            }
+
+        .examples {
+            width: 210px;
+            height: 210px;
+            }
+    
+        .examples-text:not(:last-child) {
+            margin-right: 90px;
+            }
+
+            .work-list {
+                font-size: 15px;
+            }
+
+        .paper_sizes {
+            width: 200px;
+            height: 300px;
+            padding-top: 20px;
+            }
+
+        .rates-text {
+            font-size: small;
+        }
+
+        .work_pansil_text {
+            padding-right: 50px;
+        }
+
+        .work_canvas_text {
+            padding-left: 40px;
+        }
+        .acrylic_oil-header {
+            margin-bottom: 0;
+            padding-left: 65px;
+        }
+        .acrylic_oil-rates-size {
+            padding-left: 50px;
+        }
+
+        .pancil_pastel-rates-size {
+            padding-left: 25px;
+        }
+
+
+        .reviews-logo {
+            width: 300px;
+            height: 160px;
+            }
+        
+        .customer_feedback {
+            width: 330px;
+            height: 330px;
+            padding-bottom: 30px;
+            padding-top: 30px;
+            }
+
+        .btn-footer {
+            height: 25px;
+            width: 25px;
+            }
+
+            .btn-end:not(:last-child) {
+                margin-right: 10px;
+            }
+    
+            }
+
+@media (max-width: 414px) {
+
+    .nav-iteme:not(:last-child) {
+        margin-right: 10px;
+    }
+    
+    .logo_hat {
+        width: 50px;
+        height: 20px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    
+    .nav-list {
+        font-size: 8px;
+    }
+    
+    .logo_greetings {
+        width: 350px;
+        height: 95px;
+        margin-top: 115px;
+        margin-left: -40px;
+        }
+        
+    .stella {
+        width: 210px;
+        height: 200px;
+        margin-right: 0px;
+        }
+        
+    .flower {
+        width: 320px;
+        height: 225px;
+        margin-left: auto
+        }
+
+    .order {
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+
+    .painting {
+        width: 100px;
+        height: 200px;
+    }
+
+    .text-order {
+        margin-left: 40px;
+    }
+
+    .text-order_call {
+        margin-bottom: 40px;
+    }
+
+    .text_and_btn {
+        font-size: 10px;
+    }
+
+    .btn-order {
+        font-size: 15px;
+        padding: 15px 35px;
+        margin-left: 40px;
+    }
+
+    .portfolio {
+        padding-bottom: 20px;
+    }
+
+    .paper, .paintings, .canvas {
+        width: 130px;
+        height: 180px;
+        }
+
+    .examples {
+        width: 210px;
+        height: 210px;
+        }
+
+    .examples-text:not(:last-child) {
+        margin-right: 90px;
+        }
+
+        .work-list {
+            font-size: 15px;
+        }
+
+    .paper_sizes {
+        display: none;
+        }
+
+    .dop_price-text {
+        font-size: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .work-list {
+        display: block;
+    }
+
+    .reviews-logo {
+        width: 100px;
+        height: 55px;
+        }
+    
+    .customer_feedback {
+        width: 200px;
+        height: 220px;
+        padding-bottom: 30px;
+        padding-top: 30px;
+        }
+
+    .footer {
+        font-size: 10px;
+    }
+
+    .btn-footer {
+        height: 15px;
+        width: 15px;
+        }
+
+        .btn-end:not(:last-child) {
+            margin-right: 5px;
+        }
+    
+}

@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'vw_head_office' , sans-serif;
+}
+
+/* .greetings, .order, .portfolio, .price, .reviewes, .footer {
+    padding-left: 700px;
+    padding-right: 850px;
+} */
+
+.header-container {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding-left: 35px;
+    padding-right: 45px;
+}
+
+.greetings {
+    background-color: #b6bcc8;
+    padding: 0;
+    width: 100%;
+}
+
+.intro {
+    display: flex;
+}
+
+.order {
+    display: flex;
+    justify-content: center;
+    background-color: #e4e4e4;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    width: 100%;
+}
+
+.order_position {
+    display: flex;
+}
+
+.types_of_jobs {
+    display: flex;
+    justify-content: center;
+}
+
+.portfolio {
+    background-color: #c3c7d1;
+    padding-bottom: 100px;
+}
+
+.work-list {
+    display: flex;
+}
+
+.price {
+    background-color: #f0f0f0;
+}
+
+.flex-price {
+    display: flex;
+    justify-content: center;
+}
+
+.reviewes {
+    background-color: #c2c6d0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    background-color: #f0f0f0;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    font-size: 25px;
+}
+
+.nav-end {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   

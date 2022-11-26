@@ -1,0 +1,93 @@
+
+.nav-list {
+    font-size: 25px;
+}
+
+.text_and_btn {
+    font-style: italic;
+    font-size: xx-large;
+    text-align: center;
+    line-height: 1.3em;
+}
+
+.text-order {
+    margin-left: 100px;
+}
+
+.text-order_call{
+    margin-bottom: 100px;
+}
+
+.btn-order {
+    font-weight: 600;
+}
+
+.portfolio-text {
+    font-size: xx-large;
+    padding-top: 40px;
+    text-align: center;
+    padding-bottom: 45px;
+    margin: 0;
+}
+
+.types_of_jobs-text {
+    font-style: italic;
+    font-weight: 300;
+}
+
+.price-text {
+    font-size: xx-large;
+    margin: 0;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.dop_price-text {
+    font-size: x-large;
+    margin-top: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 0%;
+    text-align: center;
+}
+
+.rates-text {
+    font-style: italic;
+    font-size: x-large;
+}
+
+.work-list {
+    font-size: x-large;
+}
+
+.work_pansil_text {
+    padding-right: 120px;
+}
+
+.pancil_pastel-header {
+    margin-bottom: 0;
+    padding-left: 15px;
+}
+
+.pancil_pastel-rates-size {
+    padding-left: 40px;
+}
+
+.work_canvas_text {
+    padding-left: 140px;
+}
+
+.acrylic_oil-header {
+    margin-bottom: 0;
+    padding-left: 215px;
+}
+
+.acrylic_oil-rates-size {
+    padding-left: 170px;
+}
+
+.dop_price-text {
+    margin-top: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 0%;
+}

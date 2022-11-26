@@ -1,0 +1,7 @@
+цвета фонов: f0f0f0 и c3c7d1
+Цвета шрифта:  263344
+шрифт: Основной - Century Gothic regular, italic  и Bold (заголовки, текст)
+
+mr_HamiltoneG regular (рукописный дублируется)
+
+

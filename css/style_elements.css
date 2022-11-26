@@ -1,0 +1,156 @@
+a {
+    text-decoration: none;
+    color: #263344;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.to_main {
+    margin-right: auto;
+}
+
+.nav-list {
+display: flex;
+}
+
+.nav-iteme:not(:last-child) {
+margin-right: 50px;
+}
+
+.logo_hat {
+    width: 150px;
+    height: 70px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+}
+
+.logo_greetings {
+    background: no-repeat;
+    background-image: url("/img/blok\ logo.png");
+    background-size: 100%;
+    width: 900px;
+    height: 400px;
+    margin-top:400px;
+    margin-left: 300px;
+    }
+    
+.stella {
+    background: no-repeat;
+    background-image: url("/img/Stella.png");
+    background-size: 100%;
+    width: 450px;
+    height: 450px;
+    margin-right: 0px;
+    }
+    
+.flower {
+    background: no-repeat;
+    background-image: url("/img/flower.png");
+    background-size: 100%;
+    width: 600px;
+    height: 900px;
+    margin-left: auto
+    }
+
+.painting {
+    background: no-repeat;
+    background-image: url("/img/painting.jpg");
+    background-size: 100%;
+    width: 430px;
+    height: 600px;
+    animation-name: scale-in-hor-right;
+}
+
+.btn-order {
+    font-size: 50px;
+    padding: 25px 200px;
+    margin-left: 20px;
+    line-height: 1;
+    color: #263344;
+    background: #b6bcc8;
+    border-radius: 4px;
+}
+
+.paper {
+    background-image: url(/img/on\ the\ paper.png);
+    background-size: 100%;
+}
+
+.paper, .paintings, .canvas {
+    width: 280px;
+    height: 360px;
+    box-shadow: 10px 3px 8px 0px rgba(34, 60, 80, 0.37);
+    transition: transform .5s ease;
+}
+
+.paper-text {
+    transition: color .3s ease;
+}
+
+.paintings-text {
+    transition: color .3s ease;
+}
+
+.canvas-text {
+    transition: color .3s ease;
+}
+
+.examples:not(:last-child) {
+    margin-right: 20px;
+}
+
+.examples {
+    background-color: #dedede;
+    width: 430px;
+    height: 430px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.examples-text {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.examples-text:not(:last-child) {
+    margin-right: 230px;
+}
+
+.paper_sizes {
+    width: 500px;
+    padding-top: 30px;
+}
+
+.reviews-logo {
+    background-image: url(/img/reviews.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 580px;
+    height: 300px;
+    margin-right: 50px;
+}
+
+.customer_feedback {
+    width: 580px;
+    height: 580px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+.btn-footer {
+    height: 50px;
+    width: 50px;
+}
+
+.btn-end:not(:last-child) {
+    margin-right: 20px;
+}
